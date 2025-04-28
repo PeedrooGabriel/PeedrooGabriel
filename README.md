@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Gabriel dos Santos
 - 👀 I’m interested in developing my programming abilities focused in back-end
-- 🌱 I’m currently in Fatec (Faculdade de Tecnologia do Estado de São Paulo), studying Systems Analysis and Devolopment
+- 🌱 Pursuing a degree in Systems Analysis and Development at FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
 - **Hard Skills**
   
